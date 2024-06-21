@@ -1,0 +1,15 @@
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2.csproj.AssemblyReference.cache
+D:\дз шарага\lab7 z2\obj\Debug\MainWindow.g.cs
+D:\дз шарага\lab7 z2\obj\Debug\App.g.cs
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2_MarkupCompile.cache
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2_MarkupCompile.lref
+D:\дз шарага\lab7 z2\bin\Debug\lab7 z2.exe.config
+D:\дз шарага\lab7 z2\bin\Debug\lab7 z2.exe
+D:\дз шарага\lab7 z2\bin\Debug\lab7 z2.pdb
+D:\дз шарага\lab7 z2\obj\Debug\MainWindow.baml
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2.g.resources
+D:\дз шарага\lab7 z2\obj\Debug\lab7_z2.Properties.Resources.resources
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2.csproj.GenerateResource.cache
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2.csproj.CoreCompileInputs.cache
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2.exe
+D:\дз шарага\lab7 z2\obj\Debug\lab7 z2.pdb
