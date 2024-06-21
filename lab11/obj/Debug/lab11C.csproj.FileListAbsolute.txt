@@ -1,0 +1,15 @@
+D:\дз шарага\lab11C\bin\Debug\lab11C.exe.config
+D:\дз шарага\lab11C\bin\Debug\lab11C.exe
+D:\дз шарага\lab11C\bin\Debug\lab11C.pdb
+D:\дз шарага\lab11C\obj\Debug\lab11C.csproj.AssemblyReference.cache
+D:\дз шарага\lab11C\obj\Debug\MainWindow.g.cs
+D:\дз шарага\lab11C\obj\Debug\App.g.cs
+D:\дз шарага\lab11C\obj\Debug\lab11C_MarkupCompile.cache
+D:\дз шарага\lab11C\obj\Debug\lab11C_MarkupCompile.lref
+D:\дз шарага\lab11C\obj\Debug\MainWindow.baml
+D:\дз шарага\lab11C\obj\Debug\lab11C.g.resources
+D:\дз шарага\lab11C\obj\Debug\lab11C.Properties.Resources.resources
+D:\дз шарага\lab11C\obj\Debug\lab11C.csproj.GenerateResource.cache
+D:\дз шарага\lab11C\obj\Debug\lab11C.csproj.CoreCompileInputs.cache
+D:\дз шарага\lab11C\obj\Debug\lab11C.exe
+D:\дз шарага\lab11C\obj\Debug\lab11C.pdb

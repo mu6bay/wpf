@@ -1,0 +1,123 @@
+﻿<Window x:Class="lab11C.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab11C"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="Image">
+                <Setter Property="Height" Value="100"/>
+                <Setter Property="Width" Value="100"/>
+                <Style.Triggers>
+                    <EventTrigger RoutedEvent="MouseEnter">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="Height" From="100" To="150" Duration="0:0:0.3"/>
+                                <DoubleAnimation Storyboard.TargetProperty="Width" From="100" To="150" Duration="0:0:0.3"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="MouseLeave">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="Height" From="150" To="100" Duration="0:0:0.3"/>
+                                <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="100" Duration="0:0:0.3"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Style.Triggers>
+            </Style>
+        </Grid.Resources>
+
+        <!-- Image 1 -->
+        <Canvas Margin="350,141,350,193">
+            <Image Source="/photo_2024-06-14_19-39-08.jpg" Height="100" Width="100" >
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+        </Canvas>
+        <Canvas>
+            <Image Source="/photo_2024-06-14_19-39-18.jpg" Height="100" Width="100" Canvas.Left="605" Canvas.Top="274">
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+        </Canvas>
+
+        <!-- Image 2 -->
+        <Canvas>
+            <Image Source="/photo_2024-06-14_19-39-30.jpg" Grid.Row="0" Grid.Column="0" Canvas.Left="607" Canvas.Top="144" >
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+        </Canvas>
+
+        <!-- Image 3 -->
+        <Canvas>
+            <Canvas HorizontalAlignment="Center" Canvas.Left="630" Canvas.Top="10" VerticalAlignment="Center">
+                <Image Source="/photo_2024-06-14_19-39-33.jpg" Height="100" Width="100" Canvas.Left="-26">
+                    <Image.Effect>
+                        <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                    </Image.Effect>
+                </Image>
+            </Canvas>
+        </Canvas>
+
+        <!-- Image 4 -->
+        <Canvas>
+            <Image Source="/photo_2024-06-14_19-39-36.jpg" Height="106" Width="90" Canvas.Left="50" Canvas.Top="2">
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+        </Canvas>
+
+        <!-- Image 1 -->
+        <Canvas Margin="84,308,-84,-308">
+            <Image Source="/photo_2024-06-14_19-39-39.jpg" Height="97" Width="88" Canvas.Left="-24" Canvas.Top="-29" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+        </Canvas>
+
+        <!-- Image 1 -->
+        <Canvas Margin="350,308,350,26">
+            <Image Source="/photo_2024-06-14_19-39-43.jpg" Height="100" Width="100" HorizontalAlignment="Center" Canvas.Top="-26" VerticalAlignment="Top">
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+
+        </Canvas>
+        <Canvas Margin="84,167,-84,-167">
+            <Image Source="/photo_2024-06-14_19-39-45.jpg" Height="84" Width="98" Canvas.Left="-28" Canvas.Top="-20" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+        </Canvas>
+
+        <!-- Image 1 -->
+        <Canvas Margin="350,24,-350,-24">
+            <Image Source="/photo_2024-06-14_19-39-50.jpg" Height="108" Width="104" Canvas.Left="-3" Canvas.Top="-16">
+                <Image.Effect>
+                    <DropShadowEffect Color="Black" BlurRadius="5" Opacity="0.7"/>
+                </Image.Effect>
+            </Image>
+
+
+
+        </Canvas>
+
+        <!-- Image 1 -->
+
+
+
+    </Grid>
+</Window>
