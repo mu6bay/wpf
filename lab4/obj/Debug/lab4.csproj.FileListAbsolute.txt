@@ -1,0 +1,16 @@
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\bin\Debug\lab4.exe.config
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\bin\Debug\lab4.exe
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\bin\Debug\lab4.pdb
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\MainWindow.g.cs
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\App.g.cs
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4_MarkupCompile.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4_MarkupCompile.lref
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\MainWindow.baml
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.g.resources
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.exe
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab4\obj\Debug\lab4.pdb
