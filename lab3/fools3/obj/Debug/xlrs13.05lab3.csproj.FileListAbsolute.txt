@@ -1,0 +1,31 @@
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.csproj.AssemblyReference.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\MainWindow.g.cs
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\App.g.cs
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3_MarkupCompile.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3_MarkupCompile.lref
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\bin\Debug\xlrs13.05lab3.exe.config
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\bin\Debug\xlrs13.05lab3.exe
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\bin\Debug\xlrs13.05lab3.pdb
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\MainWindow.baml
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.g.resources
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13._05lab3.Properties.Resources.resources
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.csproj.GenerateResource.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.csproj.CoreCompileInputs.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.exe
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.pdb
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.csproj.AssemblyReference.cache
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\MainWindow.g.cs
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\App.g.cs
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3_MarkupCompile.cache
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3_MarkupCompile.lref
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.exe
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.pdb
+D:\дз шарага\3лаба\xlrs13.05lab3\bin\Debug\xlrs13.05lab3.exe.config
+D:\дз шарага\3лаба\xlrs13.05lab3\bin\Debug\xlrs13.05lab3.exe
+D:\дз шарага\3лаба\xlrs13.05lab3\bin\Debug\xlrs13.05lab3.pdb
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\MainWindow.baml
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.g.resources
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13._05lab3.Properties.Resources.resources
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.csproj.GenerateResource.cache
+D:\дз шарага\3лаба\xlrs13.05lab3\obj\Debug\xlrs13.05lab3.csproj.CoreCompileInputs.cache

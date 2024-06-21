@@ -1,0 +1,15 @@
+C:\Users\vit25\Downloads\lab3draw\bin\Debug\lab3draw.exe.config
+C:\Users\vit25\Downloads\lab3draw\bin\Debug\lab3draw.exe
+C:\Users\vit25\Downloads\lab3draw\bin\Debug\lab3draw.pdb
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw.csproj.AssemblyReference.cache
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\MainWindow.g.cs
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\App.g.cs
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw_MarkupCompile.cache
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw_MarkupCompile.lref
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\MainWindow.baml
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw.g.resources
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw.Properties.Resources.resources
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw.csproj.GenerateResource.cache
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw.csproj.CoreCompileInputs.cache
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw.exe
+C:\Users\vit25\Downloads\lab3draw\obj\Debug\lab3draw.pdb

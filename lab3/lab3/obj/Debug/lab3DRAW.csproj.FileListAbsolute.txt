@@ -1,0 +1,15 @@
+D:\дз шарага\lab3DRAW\bin\Debug\lab3DRAW.exe.config
+D:\дз шарага\lab3DRAW\bin\Debug\lab3DRAW.exe
+D:\дз шарага\lab3DRAW\bin\Debug\lab3DRAW.pdb
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW.csproj.AssemblyReference.cache
+D:\дз шарага\lab3DRAW\obj\Debug\MainWindow.g.cs
+D:\дз шарага\lab3DRAW\obj\Debug\App.g.cs
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW_MarkupCompile.cache
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW_MarkupCompile.lref
+D:\дз шарага\lab3DRAW\obj\Debug\MainWindow.baml
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW.g.resources
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW.Properties.Resources.resources
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW.csproj.GenerateResource.cache
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW.csproj.CoreCompileInputs.cache
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW.exe
+D:\дз шарага\lab3DRAW\obj\Debug\lab3DRAW.pdb
