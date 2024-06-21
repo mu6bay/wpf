@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\milldoriss\xlrs\bin\Debug\xlrs.exe.config
+C:\Users\user\Desktop\milldoriss\xlrs\bin\Debug\xlrs.exe
+C:\Users\user\Desktop\milldoriss\xlrs\bin\Debug\xlrs.pdb
+C:\Users\user\Desktop\milldoriss\xlrs\obj\Debug\xlrs.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\milldoriss\xlrs\obj\Debug\xlrs.Form1.resources
+C:\Users\user\Desktop\milldoriss\xlrs\obj\Debug\xlrs.Properties.Resources.resources
+C:\Users\user\Desktop\milldoriss\xlrs\obj\Debug\xlrs.csproj.GenerateResource.cache
+C:\Users\user\Desktop\milldoriss\xlrs\obj\Debug\xlrs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\milldoriss\xlrs\obj\Debug\xlrs.exe
+C:\Users\user\Desktop\milldoriss\xlrs\obj\Debug\xlrs.pdb
+C:\Users\vit25\Downloads\xlrs\bin\Debug\xlrs.exe.config
+C:\Users\vit25\Downloads\xlrs\bin\Debug\xlrs.exe
+C:\Users\vit25\Downloads\xlrs\bin\Debug\xlrs.pdb
+C:\Users\vit25\Downloads\xlrs\obj\Debug\xlrs.csproj.AssemblyReference.cache
+C:\Users\vit25\Downloads\xlrs\obj\Debug\xlrs.Form1.resources
+C:\Users\vit25\Downloads\xlrs\obj\Debug\xlrs.Properties.Resources.resources
+C:\Users\vit25\Downloads\xlrs\obj\Debug\xlrs.csproj.GenerateResource.cache
+C:\Users\vit25\Downloads\xlrs\obj\Debug\xlrs.csproj.CoreCompileInputs.cache
+C:\Users\vit25\Downloads\xlrs\obj\Debug\xlrs.exe
+C:\Users\vit25\Downloads\xlrs\obj\Debug\xlrs.pdb
+C:\Users\user\Downloads\xlrs (2)\xlrs\bin\Debug\xlrs.exe.config
+C:\Users\user\Downloads\xlrs (2)\xlrs\bin\Debug\xlrs.exe
+C:\Users\user\Downloads\xlrs (2)\xlrs\bin\Debug\xlrs.pdb
+C:\Users\user\Downloads\xlrs (2)\xlrs\obj\Debug\xlrs.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\xlrs (2)\xlrs\obj\Debug\xlrs.Form1.resources
+C:\Users\user\Downloads\xlrs (2)\xlrs\obj\Debug\xlrs.Properties.Resources.resources
+C:\Users\user\Downloads\xlrs (2)\xlrs\obj\Debug\xlrs.csproj.GenerateResource.cache
+C:\Users\user\Downloads\xlrs (2)\xlrs\obj\Debug\xlrs.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\xlrs (2)\xlrs\obj\Debug\xlrs.exe
+C:\Users\user\Downloads\xlrs (2)\xlrs\obj\Debug\xlrs.pdb
+D:\дз шарага\xlrsntcn\xlrs\bin\Debug\xlrs.exe.config
+D:\дз шарага\xlrsntcn\xlrs\bin\Debug\xlrs.exe
+D:\дз шарага\xlrsntcn\xlrs\bin\Debug\xlrs.pdb
+D:\дз шарага\xlrsntcn\xlrs\obj\Debug\xlrs.csproj.AssemblyReference.cache
+D:\дз шарага\xlrsntcn\xlrs\obj\Debug\xlrs.Form1.resources
+D:\дз шарага\xlrsntcn\xlrs\obj\Debug\xlrs.Properties.Resources.resources
+D:\дз шарага\xlrsntcn\xlrs\obj\Debug\xlrs.csproj.GenerateResource.cache
+D:\дз шарага\xlrsntcn\xlrs\obj\Debug\xlrs.csproj.CoreCompileInputs.cache
+D:\дз шарага\xlrsntcn\xlrs\obj\Debug\xlrs.exe
+D:\дз шарага\xlrsntcn\xlrs\obj\Debug\xlrs.pdb
