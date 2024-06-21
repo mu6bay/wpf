@@ -1,0 +1,16 @@
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\bin\Debug\lab5xlrs.exe.config
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\bin\Debug\lab5xlrs.exe
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\bin\Debug\lab5xlrs.pdb
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.csproj.AssemblyReference.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\MainWindow.g.cs
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\App.g.cs
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs_MarkupCompile.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs_MarkupCompile.lref
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\MainWindow.baml
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.g.resources
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.Properties.Resources.resources
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.csproj.GenerateResource.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.csproj.CoreCompileInputs.cache
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.exe
+C:\Users\user.COPP6-3.000\Desktop\Капитонова 21 Ис\lab5xlrs\obj\Debug\lab5xlrs.pdb
